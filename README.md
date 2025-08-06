@@ -6,7 +6,7 @@
 Recreated the NOVAA climate page in HTML with some inline CSS
 
 Wireframe
-![Wireframe](wireframe.jpg)
+![Wireframe](/images/wireframe.jpg)
 
 
 
