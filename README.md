@@ -1,6 +1,6 @@
 # HTML DAY 2 In class exercise
 
-[Basic HTML Webpage](https://codecrew-codeschool.github.io/HTML_lesson/)
+[Basic HTML Webpage](https://codecrew-codeschool.github.io/Week1_HTML_lessons_202508/)
 
 
 Recreated the NOVAA climate page in HTML with some inline CSS
