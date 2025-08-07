@@ -56,3 +56,7 @@ We also discussed linking between pages in a website. As well as embedding conte
 The site deployed from this reponow has a page for each day of class.
 
 Resources (files and images for the site) have been moved into the files directory, and links have been updated
+
+## Day 4
+
+We walked through creating an HTML form, which can be found in the forms.html file in this repository
